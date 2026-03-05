@@ -1,0 +1,28 @@
+﻿// See https://aka.ms/new-console-template for more information
+Console.WriteLine("Hello, World!");
+
+
+///////////////////////////////////////////////////////////////////////////
+// All of these basic requirements:
+
+// Variables
+
+// Expressions
+
+// Conditionals
+
+// Loops
+
+// Functions
+
+// Classes
+
+// Structures and Unions
+
+///////////////////////////////////////////////////////////////////////////
+// One of these additional requirements:
+
+// Read and write to a file.
+
+// Demonstrate inheritance using the extends and abstract keywords.
+///////////////////////////////////////////////////////////////////////////
