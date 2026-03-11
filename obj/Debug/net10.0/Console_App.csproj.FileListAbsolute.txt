@@ -1,0 +1,16 @@
+C:\Users\joshu\OneDrive\Documents\C+ Learning\Console_App\bin\Debug\net10.0\Console_App.exe
+C:\Users\joshu\OneDrive\Documents\C+ Learning\Console_App\bin\Debug\net10.0\Console_App.deps.json
+C:\Users\joshu\OneDrive\Documents\C+ Learning\Console_App\bin\Debug\net10.0\Console_App.runtimeconfig.json
+C:\Users\joshu\OneDrive\Documents\C+ Learning\Console_App\bin\Debug\net10.0\Console_App.dll
+C:\Users\joshu\OneDrive\Documents\C+ Learning\Console_App\bin\Debug\net10.0\Console_App.pdb
+C:\Users\joshu\OneDrive\Documents\C+ Learning\Console_App\obj\Debug\net10.0\Console_App.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\joshu\OneDrive\Documents\C+ Learning\Console_App\obj\Debug\net10.0\Console_App.AssemblyInfoInputs.cache
+C:\Users\joshu\OneDrive\Documents\C+ Learning\Console_App\obj\Debug\net10.0\Console_App.AssemblyInfo.cs
+C:\Users\joshu\OneDrive\Documents\C+ Learning\Console_App\obj\Debug\net10.0\Console_App.csproj.CoreCompileInputs.cache
+C:\Users\joshu\OneDrive\Documents\C+ Learning\Console_App\obj\Debug\net10.0\Console_App.sourcelink.json
+C:\Users\joshu\OneDrive\Documents\C+ Learning\Console_App\obj\Debug\net10.0\Console_App.dll
+C:\Users\joshu\OneDrive\Documents\C+ Learning\Console_App\obj\Debug\net10.0\refint\Console_App.dll
+C:\Users\joshu\OneDrive\Documents\C+ Learning\Console_App\obj\Debug\net10.0\Console_App.pdb
+C:\Users\joshu\OneDrive\Documents\C+ Learning\Console_App\obj\Debug\net10.0\Console_App.genruntimeconfig.cache
+C:\Users\joshu\OneDrive\Documents\C+ Learning\Console_App\obj\Debug\net10.0\ref\Console_App.dll
+C:\Users\joshu\OneDrive\Documents\C+ Learning\Console_App\bin\Debug\net10.0\Data\books.json
