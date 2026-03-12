@@ -1,4 +1,4 @@
-//Manage options
+
 using System;
 using System.Text.Json;
 
@@ -21,10 +21,15 @@ class Bookstore
         //Write now to console with loop
         Console.WriteLine("Books in the Store:");
 
-        //(class, variable, list)
+        // Loop through each Book object from the deserialized list
         foreach (Book book in books)
         {
-            Console.WriteLine($"{book.id}, {book.title}, {book.author}, {book.genre}, {book.price}, {book.stock}");
+            // Create a BookSummary struct from the current book's data.
+            BookSummary summary = new BookSummary(book.title, book.author, book.price);
+
+            // Print the full book record, then the struct's formatted summary
+            Console.WriteLine($"[ID: {book.id}] Genre: {book.genre} | Stock: {book.stock}");
+            Console.WriteLine($"  {summary.Display()}");
         }
 
 
@@ -81,10 +86,10 @@ class Bookstore
         //read existing
         string json = File.ReadAllText(filePath);
         List<Book> books = JsonSerializer.Deserialize<List<Book>>(json)!;
-
+        {
         //short lamda way of writing the foreach loop
         //foreach (Book b in books)
-        {
+       
             //     if (b.id == idToRemove)
             //     {
             //         bookToRemove = b;
